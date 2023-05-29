@@ -1,6 +1,6 @@
-## Welcome to My Printf
+# Welcome to My Printf
 
-# Task
-At this project I have to make my own printf function.
+## Task
+###At this project I have to make my own printf function.
 
-# Description
+## Description
